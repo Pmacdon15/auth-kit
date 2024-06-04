@@ -16,7 +16,7 @@ import { useRouter } from "next/navigation";
 // import LogInLogOuButtons from './loginLogoutButtons';
 //import { logout } from './actions';
 
-const pages = ['Home', 'Authenticated Route', 'Normal Route'];
+const pages = ['Home', 'Authenticated Route'];
 
 export default function ButtonAppBar({
     children,
